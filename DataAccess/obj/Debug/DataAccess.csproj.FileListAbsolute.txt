@@ -1,0 +1,6 @@
+C:\Users\haolo\source\repos\WorldBestCafe\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\haolo\source\repos\WorldBestCafe\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\haolo\source\repos\WorldBestCafe\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\haolo\source\repos\WorldBestCafe\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\haolo\source\repos\WorldBestCafe\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\haolo\source\repos\WorldBestCafe\DataAccess\bin\Debug\DataAccess.dll.config

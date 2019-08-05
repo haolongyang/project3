@@ -1,0 +1,28 @@
+﻿.homePageBackground {
+    background-image: url("/Content/Images/foodHomePage.jpg");
+}
+.aboutPageBackground {
+    background-image: url("/Content/Images/aboutPage.jpg");
+}
+.contactPageBackground {
+    background-image: url("/Content/Images/contactPage.jpg");
+}
+.secretPageBackground {
+    background-image: url("/Content/Images/secretPage.jpg");
+}
+.center {
+    position:absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+}
+.textCenter {
+    text-align:center;
+}
+.generalBackground {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+    color: white;
+}

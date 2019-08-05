@@ -1,0 +1,6 @@
+C:\Users\haolo\source\repos\WorldBestCafe\MenuService\bin\Debug\MenuService.dll.config
+C:\Users\haolo\source\repos\WorldBestCafe\MenuService\bin\Debug\MenuService.dll
+C:\Users\haolo\source\repos\WorldBestCafe\MenuService\bin\Debug\MenuService.pdb
+C:\Users\haolo\source\repos\WorldBestCafe\MenuService\obj\Debug\MenuService.csproj.CoreCompileInputs.cache
+C:\Users\haolo\source\repos\WorldBestCafe\MenuService\obj\Debug\MenuService.dll
+C:\Users\haolo\source\repos\WorldBestCafe\MenuService\obj\Debug\MenuService.pdb
